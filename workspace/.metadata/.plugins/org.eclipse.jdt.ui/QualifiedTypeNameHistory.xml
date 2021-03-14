@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="account.Account"/>
+    <fullyQualifiedTypeName name="account.TimeAccount"/>
+    <fullyQualifiedTypeName name="point.Point2D"/>
+    <fullyQualifiedTypeName name="point.Point3D"/>
+    <fullyQualifiedTypeName name="pet.RobotPet"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+</qualifiedTypeNameHistroy>
